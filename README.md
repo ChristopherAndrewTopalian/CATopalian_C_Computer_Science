@@ -7,7 +7,7 @@ Learn C Programming Language the Easy Way Here!
 
 ---
 
-[Code is Here](src/c)
+## [Code is Here](src/c)
 
 Happy Scripting :-)
 
