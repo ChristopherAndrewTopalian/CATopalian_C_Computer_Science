@@ -3,6 +3,10 @@ Learn C Programming Language the Easy Way Here!
 
 ---
 
+![001](src/media/textures/backgrounds/c_001.jpg)
+
+---
+
 Happy Scripting :-)
 
 //----//
